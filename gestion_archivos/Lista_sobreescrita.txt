@@ -1,0 +1,10 @@
+Fichero;líneas;palabras;caracteres:
+"funciones_ajedrez.py";66;195;1866;
+"FuncionesV2_APA.py";226;746;6779;
+"patitoV2.py";97;286;2894;
+"pruebaCabezaPatitoV3.py";9;37;198;
+"pruebas externas.py";27;36;332;
+"tablero_de_ajedrezV2.py";94;371;3990;
+"WORDCOUNTER_V1.py";35;88;940;
+"pruebas_gestion_archivos.py";7;17;139;
+"WORDCOUNTER_V2.py";39;98;1078;
